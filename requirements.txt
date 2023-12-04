@@ -4,3 +4,4 @@ chromadb
 langchain
 google-cloud-documentai
 pypdf
+docx2txt
