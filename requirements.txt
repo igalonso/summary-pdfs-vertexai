@@ -5,3 +5,5 @@ langchain
 google-cloud-documentai
 pypdf
 docx2txt
+google-cloud-translate==2.0.1
+docx
