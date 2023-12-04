@@ -1,0 +1,6 @@
+openai
+tiktoken
+chromadb
+langchain
+google-cloud-documentai
+pypdf
